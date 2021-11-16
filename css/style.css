@@ -45,7 +45,7 @@ footer img {
 form {
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 33%;
 }
 form .form-group {
   background-color: rgb(144, 231, 144);
