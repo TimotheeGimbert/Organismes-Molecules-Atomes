@@ -1,8 +1,11 @@
+header {
+  margin: 20px;
+}
+nav {
+  padding: 20px;
+}
 .buttons {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    border: 1px dashed white;
-    border-radius: 20px; 
-    padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
