@@ -1,0 +1,35 @@
+body {
+  height: 100vh;
+}
+
+/* ORGANISM HEADER */
+header {
+  margin: 20px;
+}
+nav {
+  padding: 20px;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+/* ORGANISM FOOTER */
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.705);
+  padding: 11px;
+}
+footer p {
+  margin: 0 33px;
+}
+footer img {
+  align-self: flex-end;
+  width: 22px;
+  height: 22px;
+  margin-right: 33px;
+}
