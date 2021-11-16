@@ -1,7 +1,8 @@
-.button-full {
-
-}
-
-.button-empty {
-    
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border: 1px dashed white;
+    border-radius: 20px; 
+    padding: 20px;
 }
