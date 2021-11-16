@@ -33,3 +33,21 @@ footer img {
   height: 22px;
   margin-right: 33px;
 }
+
+/* ORGANISM AUTHENTIFICATION_FORM */
+.form-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+form .form-group {
+  background-color: rgb(144, 231, 144);
+  padding: 20px 0;
+}
